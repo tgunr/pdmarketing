@@ -1,0 +1,21 @@
+#!/bin/bash -x
+
+if [[ $# != 2 ]] ; then 
+    echo "svn-restore: need source and destination"
+    exit -1
+fi
+
+tmp=`mktemp`
+dir=`dirname "$0"`
+restorefrom="${1%%/}"
+restoreto="${2%%/}"
+
+rootdir="$dir/../.."
+pushd "$rootdir"
+find "./$restorefrom" -type d -name .svn -print > $tmp
+
+while read adir; do
+    path=`echo $adir|sed -E "s@./$restorefrom/(.*)@\1@"`
+    cp -r "$restorefrom/$path" "$restoreto/$path"
+done < $tmp
+popd

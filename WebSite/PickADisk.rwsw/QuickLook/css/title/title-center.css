@@ -1,0 +1,13 @@
+#title img {
+	visibility: hidden;
+	width: 0;
+}
+
+#title, #site_title, #site_slogan {
+	margin: 0 auto;
+	text-align: center;
+}
+
+#site_title {
+	margin-bottom: 10px;
+}
