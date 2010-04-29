@@ -20,15 +20,16 @@
 				<string>04-Download</string>
 				<string>05-Support</string>
 				<string>06-Purchase</string>
-				<string>07-QuickStart</string>
-				<string>08-About</string>
-				<string>09-Updates</string>
-				<string>10-Send-Email</string>
-				<string>11-Known-Issues</string>
-				<string>12-Blog</string>
-				<string>13-SiteMap</string>
-				<string>14-FAQ</string>
-				<string>15-PlusKit</string>
+				<string>07-Purchase</string>
+				<string>08-QuickStart</string>
+				<string>09-About</string>
+				<string>10-Updates</string>
+				<string>11-Send-Email</string>
+				<string>12-Known-Issues</string>
+				<string>13-Blog</string>
+				<string>14-SiteMap</string>
+				<string>15-FAQ</string>
+				<string>16-PlusKit</string>
 			</array>
 		</dict>
 	</array>

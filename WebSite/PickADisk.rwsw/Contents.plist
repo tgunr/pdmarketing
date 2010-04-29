@@ -1283,7 +1283,7 @@ pageTracker._trackPageview();
 						</dict>
 					</dict>
 					<key>PublishingSettingsConfigured</key>
-					<false/>
+					<true/>
 					<key>ShowBreadcrumbTrail</key>
 					<true/>
 					<key>ShowTidiedCode</key>
@@ -1554,7 +1554,6 @@ pageTracker._trackPageview();
 			<array>
 				<string>DefaultPageAttributes</string>
 				<string>Pages</string>
-				<string>QuickLook</string>
 			</array>
 		</dict>
 	</array>

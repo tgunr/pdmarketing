@@ -27,7 +27,7 @@
 				<key>PublishingManifest</key>
 				<dict>
 					<key>CreationDate</key>
-					<date>2010-04-26T21:24:20Z</date>
+					<date>2010-04-28T20:02:21Z</date>
 					<key>DigestAlgorithm</key>
 					<string>MD5</string>
 					<key>DocumentGUID</key>
@@ -48,21 +48,21 @@
 						<dict>
 							<key>Digest</key>
 							<data>
-							QskZ1HK8JHAW1Y/QFitg
-							jw==
+							9dyEywWD86nxp+Pmp7Dr
+							Zw==
 							</data>
 							<key>Size</key>
-							<integer>10688</integer>
+							<integer>10789</integer>
 						</dict>
 						<key>carousel_files/blocks_image_0_1.png</key>
 						<dict>
 							<key>Digest</key>
 							<data>
-							Sa+TtNZhhgM+c+E+W4AG
-							UQ==
+							IQ5gJKjClwYHCtJ9e5jo
+							+A==
 							</data>
 							<key>Size</key>
-							<integer>553299</integer>
+							<integer>599691</integer>
 						</dict>
 						<key>carousel_files/blocks_image_2_1.png</key>
 						<dict>

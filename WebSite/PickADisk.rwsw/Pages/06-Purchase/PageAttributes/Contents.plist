@@ -52,12 +52,16 @@ td#note {
 				<false/>
 				<key>DefaultLinkTarget</key>
 				<string>self</string>
+				<key>Enabled</key>
+				<true/>
 				<key>FilenameExtension</key>
 				<string>html</string>
 				<key>FolderName</key>
 				<string>rw</string>
 				<key>HasCustomThemeStyle</key>
 				<true/>
+				<key>Hidden</key>
+				<false/>
 				<key>ImageFormat</key>
 				<string>Original</string>
 				<key>ImageQuality</key>
