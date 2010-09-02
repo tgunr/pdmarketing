@@ -4,6 +4,8 @@
 <dict>
 	<key>Creator</key>
 	<string>RapidWeaver</string>
+	<key>Minimum Application Version</key>
+	<string>4.3.9</string>
 	<key>SandwichFillings</key>
 	<array>
 		<dict>
@@ -1261,7 +1263,7 @@ pageTracker._trackPageview();
 							<key>anonymous</key>
 							<false/>
 							<key>enablePublicKeyAuthentication</key>
-							<false/>
+							<true/>
 							<key>passiveMode</key>
 							<true/>
 							<key>path</key>
@@ -1277,7 +1279,7 @@ pageTracker._trackPageview();
 							<key>server</key>
 							<string>polymicrosystems.com</string>
 							<key>sftp</key>
-							<false/>
+							<true/>
 							<key>user</key>
 							<string>tgunr</string>
 						</dict>

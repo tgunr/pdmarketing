@@ -25,7 +25,7 @@
 				<key>PublishingManifest</key>
 				<dict>
 					<key>CreationDate</key>
-					<date>2010-04-28T20:02:25Z</date>
+					<date>2010-09-02T23:08:00Z</date>
 					<key>DigestAlgorithm</key>
 					<string>MD5</string>
 					<key>DocumentGUID</key>
@@ -46,11 +46,11 @@
 						<dict>
 							<key>Digest</key>
 							<data>
-							+/QQt6e6pzg8WMCrVFBu
-							8g==
+							+Ps0O2ZNzRLKArpyfH/s
+							ig==
 							</data>
 							<key>Size</key>
-							<integer>10712</integer>
+							<integer>10708</integer>
 						</dict>
 						<key>faq_files/default_fm.css</key>
 						<dict>
@@ -66,11 +66,11 @@
 						<dict>
 							<key>Digest</key>
 							<data>
-							If7eO1bRKj1+TD4wZ4hq
-							3g==
+							nki2xIYTWILdTEIDsGDi
+							Nw==
 							</data>
 							<key>Size</key>
-							<integer>42367</integer>
+							<integer>42412</integer>
 						</dict>
 						<key>faq_files/lastCreated.xml</key>
 						<dict>

@@ -8,7 +8,7 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>Changed</key>
-				<false/>
+				<true/>
 				<key>ColourStyles</key>
 				<dict>
 					<key>Alpha</key>
@@ -56,9 +56,39 @@
 						<dict>
 							<key>Alias</key>
 							<data>
+							AAAAAAG4AAIAAAdsZW9w
+							YXJkAAAAAAAAAAAAAAAA
+							AAAAAAAAAADD/CSTSCsA
+							AAAroD4NY2xlYW4uY29t
+							bWFuZAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAGn1bcgf
+							AjgAAAAAAAAAAAABAAMA
+							AAkAAAAAAAAAAAAAAAAA
+							AAAAB3NjcmlwdHMAABAA
+							CAAAw/yHAwAAABEACAAA
+							yB9kqAAAAAEAGAAroD4A
+							K5/pACuZcQArjQMASD01
+							ACqm2gACAEpsZW9wYXJk
+							OlByb2plY3RzOlBpY2tB
+							RGlzazpNYXJrZXRpbmc6
+							V2ViU2l0ZTpzdXBwb3J0
+							OnNjcmlwdHM6Y2xlYW4u
+							Y29tbWFuZAAOABwADQBj
+							AGwAZQBhAG4ALgBjAG8A
+							bQBtAGEAbgBkAA8AEAAH
+							AGwAZQBvAHAAYQByAGQA
+							EgBDL1Byb2plY3RzL1Bp
+							Y2tBRGlzay9NYXJrZXRp
+							bmcvV2ViU2l0ZS9zdXBw
+							b3J0L3NjcmlwdHMvY2xl
+							YW4uY29tbWFuZAAAEwAQ
+							L1ZvbHVtZXMvbGVvcGFy
+							ZP//AAA=
 							</data>
 							<key>Path</key>
-							<string>/~/Projects/PickADisk/Marketing/WebSite/support/scripts/clean.command</string>
+							<string>/Users/davec/Projects/PickADisk/Marketing/WebSite/support/scripts/clean.command</string>
 						</dict>
 						<key>Name</key>
 						<string>clean.command</string>
@@ -68,9 +98,35 @@
 						<dict>
 							<key>Alias</key>
 							<data>
+							AAAAAAGEAAIAAQdsZW9w
+							YXJkAAAAAAAAAAAAAAAA
+							AAAAAAAAAADD/CSTSCsA
+							AAArmXEKT3BlbkJhbm5l
+							cgAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAACubusbx
+							JO4AAAAAAAAAAAABAAEA
+							AAkAAAAAAAAAAAAAAAAA
+							AAAAB1dlYlNpdGUAABAA
+							CAAAw/yHAwAAABEACAAA
+							xvGHXgAAAAEAEAArmXEA
+							K40DAEg9NQAqptoAAgA3
+							bGVvcGFyZDpQcm9qZWN0
+							czpQaWNrQURpc2s6TWFy
+							a2V0aW5nOldlYlNpdGU6
+							T3BlbkJhbm5lcgAADgAW
+							AAoATwBwAGUAbgBCAGEA
+							bgBuAGUAcgAPABAABwBs
+							AGUAbwBwAGEAcgBkABIA
+							MC9Qcm9qZWN0cy9QaWNr
+							QURpc2svTWFya2V0aW5n
+							L1dlYlNpdGUvT3BlbkJh
+							bm5lcgATABAvVm9sdW1l
+							cy9sZW9wYXJk//8AAA==
 							</data>
 							<key>Path</key>
-							<string>/~/Projects/PickADisk/Marketing/WebSite/OpenBanner</string>
+							<string>/Users/davec/Projects/PickADisk/Marketing/WebSite/OpenBanner</string>
 						</dict>
 						<key>Name</key>
 						<string>OpenBanner</string>
@@ -80,9 +136,37 @@
 						<dict>
 							<key>Alias</key>
 							<data>
+							AAAAAAGWAAIAAAdsZW9w
+							YXJkAAAAAAAAAAAAAAAA
+							AAAAAAAAAADD/CSTSCsA
+							AAArpu0JLmh0YWNjZXNz
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAGnyAcgf
+							AjcAAAAAAAAAAAABAAIA
+							AAkAAAAAAAAAAAAAAAAA
+							AAAACGh0YWNjZXNzABAA
+							CAAAw/yHAwAAABEACAAA
+							yB9kpwAAAAEAFAArpu0A
+							K5lxACuNAwBIPTUAKqba
+							AAIAP2xlb3BhcmQ6UHJv
+							amVjdHM6UGlja0FEaXNr
+							Ok1hcmtldGluZzpXZWJT
+							aXRlOmh0YWNjZXNzOi5o
+							dGFjY2VzcwAADgAUAAkA
+							LgBoAHQAYQBjAGMAZQBz
+							AHMADwAQAAcAbABlAG8A
+							cABhAHIAZAASADgvUHJv
+							amVjdHMvUGlja0FEaXNr
+							L01hcmtldGluZy9XZWJT
+							aXRlL2h0YWNjZXNzLy5o
+							dGFjY2VzcwATABAvVm9s
+							dW1lcy9sZW9wYXJk//8A
+							AA==
 							</data>
 							<key>Path</key>
-							<string>/~/Projects/PickADisk/Marketing/WebSite/htaccess/.htaccess</string>
+							<string>/Users/davec/Projects/PickADisk/Marketing/WebSite/htaccess/.htaccess</string>
 						</dict>
 						<key>Name</key>
 						<string>.htaccess</string>

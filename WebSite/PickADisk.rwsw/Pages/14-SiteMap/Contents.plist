@@ -25,7 +25,7 @@
 				<key>PublishingManifest</key>
 				<dict>
 					<key>CreationDate</key>
-					<date>2010-04-26T21:24:21Z</date>
+					<date>2010-09-02T23:07:59Z</date>
 					<key>DigestAlgorithm</key>
 					<string>MD5</string>
 					<key>DocumentGUID</key>
@@ -46,21 +46,21 @@
 						<dict>
 							<key>Digest</key>
 							<data>
-							VCcwzxGegm0gD2tBllLL
-							Zg==
+							e4R9gXG8S/0g/zE6oF1a
+							rg==
 							</data>
 							<key>Size</key>
-							<integer>8593</integer>
+							<integer>8584</integer>
 						</dict>
 						<key>sitemap_files/sitemap.xml</key>
 						<dict>
 							<key>Digest</key>
 							<data>
-							Z2aYYruvyCspSVdfhFiC
-							YQ==
+							e4pKXj2XWiYXdu861lPt
+							lg==
 							</data>
 							<key>Size</key>
-							<integer>1274</integer>
+							<integer>1722</integer>
 						</dict>
 					</dict>
 					<key>PageID</key>

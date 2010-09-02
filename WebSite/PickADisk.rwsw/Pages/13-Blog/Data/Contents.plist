@@ -68,6 +68,10 @@
 				<string> | </string>
 				<key>CommentsRSSFeedText</key>
 				<string>Comments Feed</string>
+				<key>CommentsSelectedProviderTag</key>
+				<integer>0</integer>
+				<key>CommentsUserIdentifiers</key>
+				<dict/>
 				<key>DateModifier1</key>
 				<string>%d</string>
 				<key>DateModifier2</key>

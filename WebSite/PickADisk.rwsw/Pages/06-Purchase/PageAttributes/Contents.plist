@@ -53,7 +53,7 @@ td#note {
 				<key>DefaultLinkTarget</key>
 				<string>self</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>FilenameExtension</key>
 				<string>html</string>
 				<key>FolderName</key>
@@ -61,7 +61,7 @@ td#note {
 				<key>HasCustomThemeStyle</key>
 				<true/>
 				<key>Hidden</key>
-				<false/>
+				<true/>
 				<key>ImageFormat</key>
 				<string>Original</string>
 				<key>ImageQuality</key>

@@ -25,7 +25,7 @@
 				<key>PublishingManifest</key>
 				<dict>
 					<key>CreationDate</key>
-					<date>2010-04-28T20:02:23Z</date>
+					<date>2010-09-02T19:53:20Z</date>
 					<key>DigestAlgorithm</key>
 					<string>MD5</string>
 					<key>DocumentGUID</key>
@@ -46,91 +46,91 @@
 						<dict>
 							<key>Digest</key>
 							<data>
-							y5Dlac5m4nAjP5A413X1
-							/w==
+							0hQzDvOldE9Bi2lK2Y8z
+							eA==
 							</data>
 							<key>Size</key>
-							<integer>9782</integer>
+							<integer>9778</integer>
 						</dict>
 						<key>blog_files/0dce847b66659b4eb6325ac8614b0771-1.html</key>
 						<dict>
 							<key>Digest</key>
 							<data>
-							1kyhYIUTlTcf3NCoAjsb
-							pg==
+							C30cTToMg4ql/8EYoi0D
+							6g==
 							</data>
 							<key>Size</key>
-							<integer>9333</integer>
+							<integer>9329</integer>
 						</dict>
 						<key>blog_files/107da0ed34c39865cf1482e0e71e83f9-0.html</key>
 						<dict>
 							<key>Digest</key>
 							<data>
-							6X72mjK0QPfzXDKClquB
-							EA==
+							Z2a4R5KVT0v/YhDgsJwZ
+							0g==
 							</data>
 							<key>Size</key>
-							<integer>9360</integer>
+							<integer>9356</integer>
 						</dict>
 						<key>blog_files/category-dc016rw.html</key>
 						<dict>
 							<key>Digest</key>
 							<data>
-							nYjjgbVqTg9pRFFTOv0x
-							2w==
+							n57ftUII7CdL9gbP3Xk7
+							xQ==
 							</data>
 							<key>Size</key>
-							<integer>9270</integer>
+							<integer>9266</integer>
 						</dict>
 						<key>blog_files/category-website.html</key>
 						<dict>
 							<key>Digest</key>
 							<data>
-							72emNnUWJ7NeLuFycCIp
-							0Q==
+							mLcZCEXMfcpNgCSJfJkw
+							Jg==
 							</data>
 							<key>Size</key>
-							<integer>9125</integer>
+							<integer>9121</integer>
 						</dict>
 						<key>blog_files/tag-dc016rw.html</key>
 						<dict>
 							<key>Digest</key>
 							<data>
-							gvoJFmfSTBtq89DeXIIp
-							Ww==
+							LYZT/UnHmkrxqmwg0Sb4
+							TQ==
 							</data>
 							<key>Size</key>
-							<integer>9366</integer>
+							<integer>9362</integer>
 						</dict>
 						<key>blog_files/tag-progress.html</key>
 						<dict>
 							<key>Digest</key>
 							<data>
-							ZTx2RaL86pcMWtUeLYvN
-							kg==
+							pDwo8nBwkxJWt7cLvKPz
+							qw==
 							</data>
 							<key>Size</key>
-							<integer>9367</integer>
+							<integer>9363</integer>
 						</dict>
 						<key>blog_files/tag-status.html</key>
 						<dict>
 							<key>Digest</key>
 							<data>
-							QCu7wjT+iFDaOk5IfmbU
-							Xw==
+							J1X6Ni+EEjMQKoqEmxSm
+							+A==
 							</data>
 							<key>Size</key>
-							<integer>9365</integer>
+							<integer>9361</integer>
 						</dict>
 						<key>blog_files/tag-updating.html</key>
 						<dict>
 							<key>Digest</key>
 							<data>
-							pqSwkvXG2KXRbo0aTo4e
-							hQ==
+							uFOlJZFoMHWDZRiykmtP
+							XQ==
 							</data>
 							<key>Size</key>
-							<integer>9222</integer>
+							<integer>9218</integer>
 						</dict>
 					</dict>
 					<key>PageID</key>

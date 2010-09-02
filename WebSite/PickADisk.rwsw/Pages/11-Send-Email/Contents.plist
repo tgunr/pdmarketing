@@ -25,7 +25,7 @@
 				<key>PublishingManifest</key>
 				<dict>
 					<key>CreationDate</key>
-					<date>2010-04-28T20:02:22Z</date>
+					<date>2010-09-02T19:53:19Z</date>
 					<key>DigestAlgorithm</key>
 					<string>MD5</string>
 					<key>DocumentGUID</key>
@@ -46,21 +46,21 @@
 						<dict>
 							<key>Digest</key>
 							<data>
-							S84CbV9K7jxGJI4iIX7B
-							SA==
+							FfNkiVPS7SdSGx/JEjCN
+							BQ==
 							</data>
 							<key>Size</key>
-							<integer>9849</integer>
+							<integer>9845</integer>
 						</dict>
 						<key>email_files/mailer.php</key>
 						<dict>
 							<key>Digest</key>
 							<data>
-							O5rmAGdOLXvwktPE5lpH
-							jA==
+							8KHI/yek0Xdu2KywoZWq
+							0Q==
 							</data>
 							<key>Size</key>
-							<integer>8506</integer>
+							<integer>8725</integer>
 						</dict>
 					</dict>
 					<key>PageID</key>
