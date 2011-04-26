@@ -1,0 +1,70 @@
+<HTML>
+<HEAD>
+<META http-equiv=Content-Type content="text/html; charset=UTF-8">
+<!-- Copyright (c) 2002-2007 AquaMinds Software Corporation. All rights reserved. -->
+<SCRIPT LANGUAGE="JavaScript">
+function tabSelected(pageNum) {
+     var y = 0;
+     var frame = parent.frames["tabFrame"];
+     if (document.body.scrollTop) {
+         // IE
+         y = document.body.scrollTop;
+     }
+     else if (parent.tabFrame.scrollY) {
+         // Mozilla
+         y = parent.tabFrame.scrollY;
+     }
+     else if (parent.tabFrame.pageYOffset) {
+         // Netscape
+         y = parent.tabFrame.pageYOffset;
+     }
+     parent.parent.document.cookie = "tabScroll=" + y;
+     parent.gotoPage(pageNum, -1);
+}
+
+// Retrieve the previous page number from our cookie
+function previousTabScroll() {
+    var n = 1;
+    var i1 = parent.document.cookie.indexOf("tabScroll=");
+    if (i1 >= 0) {
+        var i2 = parent.document.cookie.indexOf(";", i1 + 10);
+        if (i2 < 0) i2 = parent.document.cookie.length;
+        n = parent.document.cookie.substring(i1+10, i2);
+        if (n < 0) n = 0;
+    }
+    return n;
+}
+
+function restoreTabScroll() {
+    y = previousTabScroll();
+    parent.frames["tabFrame"].scrollTo(0, y);
+}
+
+</SCRIPT>
+</HEAD>
+
+<BODY BACKGROUND="images/edge.png" onload="javascript:restoreTabScroll();" BGCOLOR="#C0C8D0">
+<SCRIPT LANGUAGE="JavaScript">
+    var i;
+    var tab;
+    var tabFileName;
+    var img;
+
+    // First add the transparent area at the top of the tabs
+    document.write('<IMG NAME="topedge" SRC="images/topedge.png"><BR>');
+
+    // First add the transparent area at the top of the tabs
+    document.write('<IMG NAME="clearTab" SRC="images/clearTab.png" height=36><BR>');
+
+    // Now add the tabs
+    for (i = 0; i < parent.tablist.length; i++) {
+        tab = parent.tablist[i];
+        tabFileName = "pages/" + tab;
+        img  = tabFileName + "/tabL.png";
+        document.write("<A HREF=\"javascript:tabSelected(" + tab + ");\" ONMOUSEOVER=\"window.status=\'Go to selected page\'; return true;\" ONMOUSEOUT=\"window.status=\'\'; return true\">" +
+	               "<IMG NAME=\"" + tabFileName + "\" SRC=\"" + img + "\" BORDER=\"0\"></A><BR>");
+    }
+</SCRIPT>
+</BODY>
+
+</HTML>

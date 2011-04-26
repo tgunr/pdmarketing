@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>modified</key>
+		<date>2008-11-26T10:58:06Z</date>
+		<key>pageNum</key>
+		<integer>3</integer>
+		<key>title</key>
+		<string>What is PickADisk?</string>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>modified</key>
+		<date>2008-11-26T10:58:06Z</date>
+		<key>pageNum</key>
+		<integer>2</integer>
+		<key>title</key>
+		<string>New Section</string>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>modified</key>
+		<date>2008-11-26T11:03:17Z</date>
+		<key>pageNum</key>
+		<integer>1</integer>
+		<key>title</key>
+		<string>Contents</string>
+	</dict>
+	<key>backgrounds/DefaultCoverBackground.jpg</key>
+	<dict>
+		<key>modified</key>
+		<date>2008-11-26T10:58:06Z</date>
+	</dict>
+	<key>iconDir</key>
+	<string>Icons/Controls/2</string>
+	<key>notebook.js</key>
+	<dict>
+		<key>modified</key>
+		<date>2008-11-26T10:58:06Z</date>
+	</dict>
+	<key>rings</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,114 @@
+body {
+	background: repeat url(../../images/body_bg.png) 0px -3px;
+}
+
+.blog-entry-title a:hover, a:link, a:visited {
+	color: #33568f;
+}
+
+#top_grad {
+	background: repeat-x url(../../images/top_grad.png);
+}
+
+#container {
+	background-image: url(../../images/content_bg.png);
+	background-repeat: repeat-y;
+	border-right: inherit;
+}
+
+#pageHeader {
+	background: no-repeat url(../../images/header_bg.png);
+}
+
+
+html > body #pageHeader h2 {
+	border-bottom-color: #2d5592;
+}
+
+#sidebarContainer .sideHeader {
+	color: #33568f;
+}
+
+#footer { 
+	background: no-repeat center url(../../images/footer_bg.png);
+}
+
+#footer a:link, #footer a:visited {
+	background: no-repeat left bottom url(../../images/footer_divider.png);
+}
+
+#navcontainer {
+	background: url(../../images/menu_bg.png);
+}
+
+#navcontainer #current {
+	background: no-repeat url(../../images/button_over.png) left bottom;
+	color: #334766;
+}
+
+#navcontainer .currentAncestor {
+	background: no-repeat url(../../images/button_over.png) left bottom;
+	color: #334766;
+}
+
+#navcontainer li {
+	background: no-repeat right bottom url(../../images/menu_divider.png);
+}
+
+#navcontainer a:hover {
+	background: no-repeat url(../../images/button_over.png) left bottom;
+	color: #334766;
+}
+
+#navcontainer ul ul {
+	border-top: 1px solid #6e90bc;
+}
+
+#navcontainer ul ul a {
+	background: url(../../images/sub_menu_bg.png)  no-repeat;
+}
+
+#navcontainer ul ul a:hover{
+	background: url(../../images/sub_menu_bg.png)  no-repeat;
+}
+
+#navcontainer ul ul #current{
+	background: url(../../images/sub_menu_bg.png) transparent no-repeat;
+}
+
+#navcontainer ul ul .currentAncestor {
+	background: url(../../images/sub_menu_bg.png) transparent no-repeat;
+}
+
+#contentContainer #content ul.disc li {
+	background-image: url(../../images/list_item.png);
+}
+
+.filesharing-item-title a:hover {
+	color: #33568f;
+}
+
+.photo-background {
+	color: #7ba3d3;
+}
+
+.photo-navigation {
+	background: repeat-x url(../../images/top_grad.png) left -100px;
+}
+
+.photo-links {
+	background: no-repeat url(../../images/photo_header.png);
+}
+
+.photo-navigation a:link, .photo-navigation a:visited {
+	background: no-repeat right bottom url(../../images/menu_divider.png);
+}
+
+.photo-navigation a:hover {
+	color: #334766;
+	background: no-repeat url(../../images/button_over.png) right bottom;
+}
+
+html > body .photo-caption {
+	border-bottom: 1px solid #2d5592;
+}

@@ -1,0 +1,111 @@
+body {
+	background: repeat url(../../images/green/body_bg.png) 0px -3px;
+}
+
+.blog-entry-title a:hover, a:link, a:visited {
+	color: #47533b;
+}
+
+#top_grad {
+	background: repeat-x url(../../images/green/top_grad.png);
+}
+
+#container {
+	background: repeat-y url(../../images/green/content_bg.png) left 3px;
+}
+
+#pageHeader {
+	background: no-repeat url(../../images/green/header_bg.png);
+}
+
+html > body #pageHeader h2 {
+	border-bottom-color: #47533b;
+}
+
+#sidebarContainer .sideHeader {
+	color: #47533b;
+}
+
+#footer { 
+	background: no-repeat center url(../../images/green/footer_bg.png);
+}
+
+#footer a:link, #footer a:visited {
+	background: no-repeat left bottom url(../../images/green/footer_divider.png);
+}
+
+#navcontainer {
+	background: no-repeat url(../../images/green/menu_bg.png);
+}
+
+#navcontainer #current {
+	background: no-repeat url(../../images/green/button_over.png) left bottom;
+	color: #47533b;
+}
+
+#navcontainer .currentAncestor {
+	background: no-repeat url(../../images/green/button_over.png)  bottom;
+	color: #47533b;
+}
+
+#navcontainer li {
+	background: no-repeat right bottom url(../../images/green/menu_divider.png);
+}
+
+#navcontainer a:hover {
+	background: no-repeat url(../../images/green/button_over.png) left bottom;
+	color: #47533b;
+}
+
+#navcontainer ul ul {
+	border-top: 1px solid #6c7561;
+}
+
+#navcontainer ul ul a {
+	background: url(../../images/green/sub_menu_bg.png) no-repeat left;
+}
+
+#navcontainer ul ul a:hover{
+	background: url(../../images/green/sub_menu_bg.png)  no-repeat;
+}
+
+#navcontainer ul ul #current{
+	background: url(../../images/green/sub_menu_bg.png) transparent no-repeat;
+}
+
+#navcontainer ul ul .currentAncestor {
+	background: url(../../images/green/sub_menu_bg.png) transparent no-repeat;
+}
+
+#contentContainer #content ul.disc li {
+	background-image: url(../../images/green/list_item.png);
+}
+
+.filesharing-item-title a:hover {
+	color: #33568f;
+}
+
+.photo-background {
+	color: #7b8770;
+}
+
+.photo-navigation {
+	background: repeat-x url(../../images/green/top_grad.png) left -100px;
+}
+
+.photo-links {
+	background: no-repeat url(../../images/green/photo_header.png);
+}
+
+.photo-navigation a:link, .photo-navigation a:visited {
+	background: no-repeat right bottom url(../../images/green/menu_divider.png);
+}
+
+.photo-navigation a:hover {
+	color: #47533b;
+	background: no-repeat url(../../images/green/button_over.png) right bottom;
+}
+
+html > body .photo-caption {
+	border-bottom: 1px solid #47533b;
+}

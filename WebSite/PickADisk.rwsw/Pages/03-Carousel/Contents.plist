@@ -27,7 +27,7 @@
 				<key>PublishingManifest</key>
 				<dict>
 					<key>CreationDate</key>
-					<date>2010-09-02T19:53:17Z</date>
+					<date>2010-09-12T20:18:28Z</date>
 					<key>DigestAlgorithm</key>
 					<string>MD5</string>
 					<key>DocumentGUID</key>
@@ -48,11 +48,11 @@
 						<dict>
 							<key>Digest</key>
 							<data>
-							SZ6yGYDCkNkBtHvcWepN
-							/w==
+							vKO/0spT5xCEPPwKu17H
+							0g==
 							</data>
 							<key>Size</key>
-							<integer>10785</integer>
+							<integer>8287</integer>
 						</dict>
 						<key>carousel_files/blocks_image_0_1.png</key>
 						<dict>

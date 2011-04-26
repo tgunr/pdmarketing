@@ -8,7 +8,7 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>Changed</key>
-				<false/>
+				<true/>
 				<key>ColourStyles</key>
 				<dict>
 					<key>Alpha</key>
@@ -58,9 +58,38 @@ window.onload = (typeof window.onload != 'function') ? _loadUserVoice : function
 						<dict>
 							<key>Alias</key>
 							<data>
+							AAAAAAGwAAIAAAdsZW9w
+							YXJkAAAAAAAAAAAAAAAA
+							AAAAAAAAAADD/CSTSCsA
+							AAArn+kQUGlja0FEaXNr
+							RG9jLnBkZgAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAGn1YMgf
+							AjgAAAAAAAAAAAABAAIA
+							AAkAAAAAAAAAAAAAAAAA
+							AAAAB3N1cHBvcnQAABAA
+							CAAAw/yHAwAAABEACAAA
+							yB9kqAAAAAEAFAArn+kA
+							K5lxACuNAwBIPTUAKqba
+							AAIARWxlb3BhcmQ6UHJv
+							amVjdHM6UGlja0FEaXNr
+							Ok1hcmtldGluZzpXZWJT
+							aXRlOnN1cHBvcnQ6UGlj
+							a0FEaXNrRG9jLnBkZgAA
+							DgAiABAAUABpAGMAawBB
+							AEQAaQBzAGsARABvAGMA
+							LgBwAGQAZgAPABAABwBs
+							AGUAbwBwAGEAcgBkABIA
+							Pi9Qcm9qZWN0cy9QaWNr
+							QURpc2svTWFya2V0aW5n
+							L1dlYlNpdGUvc3VwcG9y
+							dC9QaWNrQURpc2tEb2Mu
+							cGRmABMAEC9Wb2x1bWVz
+							L2xlb3BhcmT//wAA
 							</data>
 							<key>Path</key>
-							<string>/Volumes/leopard/Users/davec/Desktop/PMTB/marketing/WebSite/support/PickADiskDoc.pdf</string>
+							<string>/Volumes/leopard/Projects/PickADisk/Marketing/WebSite/support/PickADiskDoc.pdf</string>
 						</dict>
 						<key>Name</key>
 						<string>PickADiskDoc.pdf</string>
@@ -80,6 +109,15 @@ window.onload = (typeof window.onload != 'function') ? _loadUserVoice : function
 				<string>High</string>
 				<key>IndexFilename</key>
 				<string>support.html</string>
+				<key>MetaTags</key>
+				<array>
+					<dict>
+						<key>Content</key>
+						<string>daily</string>
+						<key>Name</key>
+						<string>CHANGEFREQ</string>
+					</dict>
+				</array>
 				<key>OutputFormat</key>
 				<string>Default</string>
 				<key>OutputXMLDeclaration</key>

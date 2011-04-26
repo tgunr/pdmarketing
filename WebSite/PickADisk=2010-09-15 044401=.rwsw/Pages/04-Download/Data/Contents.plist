@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>Entries</key>
+				<array>
+					<dict>
+						<key>Description</key>
+						<string></string>
+						<key>Title</key>
+						<string>PickADisk-1.0.4</string>
+						<key>URL</key>
+						<string>../updates/assets/updates/archives/PickADisk_1.0.4_50816.zip</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string></string>
+						<key>Title</key>
+						<string>PickADisk_1.0.3</string>
+						<key>URL</key>
+						<string>../updates/assets/updates/archives/PickADisk_1.0.3_50805.zip</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string></string>
+						<key>Title</key>
+						<string>PickADisk_1.0.2</string>
+						<key>URL</key>
+						<string>../updates/assets/updates/archives/PickADisk_1.0.2_050801.zip</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string></string>
+						<key>Title</key>
+						<string>PickADisk_1.0.1</string>
+						<key>URL</key>
+						<string>../updates/assets/updates/archives/PickADisk_1.0.1_2142.zip</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string></string>
+						<key>Title</key>
+						<string>PickADisk_1.0</string>
+						<key>URL</key>
+						<string>../updates/assets/updates/archives/PickADisk_1.0.4_50816.zip</string>
+					</dict>
+				</array>
+			</dict>
+			<key>Files</key>
+			<array>
+				<string>PageDescription.as</string>
+			</array>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>RapidWeaver File Sharing Data</string>
+</dict>
+</plist>

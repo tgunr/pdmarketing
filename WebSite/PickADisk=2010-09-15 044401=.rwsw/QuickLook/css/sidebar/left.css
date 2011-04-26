@@ -1,0 +1,25 @@
+#container {
+	background-position: -856px 0px;
+}
+
+#contentContainer {
+	float: right;
+	margin-right: 20px;
+}
+
+html > body #contentContainer {
+	margin-right: 40px;
+}
+
+#sidebarContainer {
+	float: left;
+	margin-left: 20px;
+}
+
+html > body #sidebarContainer {
+	margin-left: 40px;
+}
+
+#breadcrumbcontainer {
+	margin-left: 240px;
+}

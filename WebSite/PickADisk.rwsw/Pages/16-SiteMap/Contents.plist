@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>ID</key>
+				<string>page13</string>
+				<key>MostRecentlySelectedStyleName</key>
+				<string>Theme Default</string>
+				<key>PageTitle</key>
+				<string>SiteMap</string>
+				<key>PluginClassName</key>
+				<string>RWSiteMapPlugin</string>
+				<key>PluginMetadata</key>
+				<dict>
+					<key>Author</key>
+					<string>Loghound.com software</string>
+					<key>Name</key>
+					<string>SiteMap</string>
+				</dict>
+				<key>PublishingManifest</key>
+				<dict>
+					<key>CreationDate</key>
+					<date>2010-09-12T20:18:34Z</date>
+					<key>DigestAlgorithm</key>
+					<string>MD5</string>
+					<key>DocumentGUID</key>
+					<string>19B15E48-E168-49FB-BDB1-7CD2294A414A</string>
+					<key>PageDigests</key>
+					<dict>
+						<key>_common/images/PAD4x64.png</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							1B2M2Y8AsgTpgAmY7PhC
+							fg==
+							</data>
+							<key>Size</key>
+							<integer>0</integer>
+						</dict>
+						<key>sitemap.html</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							BT1MBMjqjbVbGycPpELC
+							TQ==
+							</data>
+							<key>Size</key>
+							<integer>6231</integer>
+						</dict>
+						<key>sitemap_files/sitemap.xml</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							OJ4Y1i4vlSij/Ww3vqxn
+							NA==
+							</data>
+							<key>Size</key>
+							<integer>2100</integer>
+						</dict>
+					</dict>
+					<key>PageID</key>
+					<string>page13</string>
+					<key>Version</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array>
+				<string>Data.archive</string>
+			</array>
+			<key>Subsandwiches</key>
+			<array>
+				<string>PageAttributes</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page</string>
+</dict>
+</plist>

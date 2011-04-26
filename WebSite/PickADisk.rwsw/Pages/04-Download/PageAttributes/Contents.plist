@@ -85,6 +85,15 @@
 				<string>High</string>
 				<key>IndexFilename</key>
 				<string>download.html</string>
+				<key>MetaTags</key>
+				<array>
+					<dict>
+						<key>Content</key>
+						<string>daily</string>
+						<key>Name</key>
+						<string>CHANGEFREQ</string>
+					</dict>
+				</array>
 				<key>OutputFormat</key>
 				<string>Default</string>
 				<key>OutputXMLDeclaration</key>

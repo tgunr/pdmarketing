@@ -1,0 +1,24 @@
+#container {
+	background-position: right 4px;
+}
+
+#contentContainer {
+	width: auto;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+html > body #contentContainer {
+	margin-right: 40px;
+	margin-left: 40px;
+}
+
+#sidebarContainer {
+	display: none;
+}
+
+#breadcrumbcontainer {
+	margin-left: 60px;
+	margin-right: 60px;
+	width: auto;
+}

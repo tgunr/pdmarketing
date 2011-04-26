@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<!-- Copyright (c) 2002-2007 AquaMinds Software Corporation. All rights reserved. -->
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<SCRIPT LANGUAGE="JavaScript" SRC="pagescript.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript">
+	document.write("<SCR"+"IPT LANGUAGE=\"JavaScript\" SRC=\"pages/" + parent.validatePageNumber(parent.pageNumber) +  "/contents.js\"></SCR"+"IPT>");
+</SCRIPT>
+</HEAD>
+
+<SCRIPT LANGUAGE="JavaScript">
+	document.write("<FRAMESET ROWS=\"" + (parent.useTitleFrame ? parent.notebookTitleHeight : 0) + ", *\" BORDER=0>");
+	document.write("<FRAME NAME=\"titleFrame\" SRC=\"pageTitle.html\" SCROLLING=NO MARGINHEIGHT=0 MARGINWIDTH=0 NORESIZE>");
+	document.write("<FRAME NAME=\"pageBodyFrame\" SRC=\"pageBody.html\" SCROLLING=" + ((parent.pageNumber == 0) ? "NO" : "AUTO") + " MARGINHEIGHT=0 MARGINWIDTH=0 NORESIZE>");
+	document.write("</FRAMESET>");
+</SCRIPT>
+
+
+
+</HTML>

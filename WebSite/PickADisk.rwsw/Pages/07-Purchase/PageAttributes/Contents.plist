@@ -8,7 +8,7 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>Changed</key>
-				<true/>
+				<false/>
 				<key>ColourStyles</key>
 				<dict>
 					<key>Alpha</key>
@@ -155,6 +155,15 @@ td#note {
 				<string>Original</string>
 				<key>IndexFilename</key>
 				<string>bundle.html</string>
+				<key>MetaTags</key>
+				<array>
+					<dict>
+						<key>Content</key>
+						<string>weekly</string>
+						<key>Name</key>
+						<string>CHANGEFREQ</string>
+					</dict>
+				</array>
 				<key>OutputFormat</key>
 				<string>Default</string>
 				<key>OutputXMLDeclaration</key>

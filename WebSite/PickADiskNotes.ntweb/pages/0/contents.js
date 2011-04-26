@@ -1,0 +1,15 @@
+parent.document.title = "PickADisk";
+parent.coverText      = '<DIV class="style12"><SPAN class="style36">PickADisk</SPAN></DIV>';
+parent.bgImageType    = 3;
+parent.bgImageName    = 'DefaultCoverBackground.jpg';
+parent.bgImageWidth   = 600;
+parent.bgImageHeight  = 800;
+parent.sectionPageNumber = 0;
+parent.sectionName = "";
+parent.pageName="PickADisk";
+parent.showCoverTitle="1";
+parent.showCoverRevision="1";
+parent.showCoverBadge="1";
+parent.revision="Revised Wednesday, November 26, 2008 03:03:17 ";
+parent.notebookTitleHeight = 0;
+parent.contentsValid = 1;

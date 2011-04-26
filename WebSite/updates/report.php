@@ -68,7 +68,7 @@ while ($line = mysql_fetch_array($result, MYSQL_ASSOC)) {
 // Record the report
 $report_date = strftime("%Y-%m-%d %H:%M:%S");
     $query = "SELECT * FROM combinedReport ORDER BY id DESC";
-if (1) {
+if ($debug) {
 	print "$query<br/>\n";
 }
 

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>ID</key>
+				<string>page19</string>
+				<key>MostRecentlySelectedStyleName</key>
+				<string>Custom Style</string>
+				<key>PageTitle</key>
+				<string>Test</string>
+				<key>PluginClassName</key>
+				<string>YHBlocksPlugin</string>
+				<key>PluginMetadata</key>
+				<dict>
+					<key>Author</key>
+					<string>Isaiah Carew - YourHead Software</string>
+					<key>Name</key>
+					<string>Blocks</string>
+				</dict>
+				<key>PublishingManifest</key>
+				<dict>
+					<key>CreationDate</key>
+					<date>2010-09-12T20:18:35Z</date>
+					<key>DigestAlgorithm</key>
+					<string>MD5</string>
+					<key>DocumentGUID</key>
+					<string>19B15E48-E168-49FB-BDB1-7CD2294A414A</string>
+					<key>PageDigests</key>
+					<dict>
+						<key>_common/images/PAD4x64.png</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							1B2M2Y8AsgTpgAmY7PhC
+							fg==
+							</data>
+							<key>Size</key>
+							<integer>0</integer>
+						</dict>
+						<key>test.html</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							emdy0RU1MHBEUM1ybtg4
+							UQ==
+							</data>
+							<key>Size</key>
+							<integer>6813</integer>
+						</dict>
+					</dict>
+					<key>PageID</key>
+					<string>page19</string>
+					<key>Version</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array>
+				<string>Data.archive</string>
+			</array>
+			<key>Subsandwiches</key>
+			<array>
+				<string>PageAttributes</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page</string>
+</dict>
+</plist>

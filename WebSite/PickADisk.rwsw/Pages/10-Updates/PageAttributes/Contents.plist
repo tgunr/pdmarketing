@@ -38,12 +38,38 @@
 						<dict>
 							<key>Alias</key>
 							<data>
+							AAAAAAF4AAIAAQdsZW9w
+							YXJkAAAAAAAAAAAAAAAA
+							AAAAAAAAAADD/CSTSCsA
+							AAArmXEHdXBkYXRlcwAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAACum+sbz
+							YcsAAAAAAAAAAAABAAEA
+							AAkAAAAAAAAAAAAAAAAA
+							AAAAB1dlYlNpdGUAABAA
+							CAAAw/yHAwAAABEACAAA
+							xvPEOwAAAAEAEAArmXEA
+							K40DAEg9NQAqptoAAgA0
+							bGVvcGFyZDpQcm9qZWN0
+							czpQaWNrQURpc2s6TWFy
+							a2V0aW5nOldlYlNpdGU6
+							dXBkYXRlcwAOABAABwB1
+							AHAAZABhAHQAZQBzAA8A
+							EAAHAGwAZQBvAHAAYQBy
+							AGQAEgAtL1Byb2plY3Rz
+							L1BpY2tBRGlzay9NYXJr
+							ZXRpbmcvV2ViU2l0ZS91
+							cGRhdGVzAAATABAvVm9s
+							dW1lcy9sZW9wYXJk//8A
+							AA==
 							</data>
 							<key>Path</key>
-							<string>/Volumes/leopard/Users/davec/Desktop/PMTB/marketing/WebSite/updates</string>
+							<string>/Volumes/leopard/Projects/PickADisk/Marketing/WebSite/updates</string>
 						</dict>
 						<key>Name</key>
-						<string>trunk</string>
+						<string>updates</string>
 					</dict>
 				</array>
 				<key>FilenameExtension</key>
@@ -60,6 +86,15 @@
 				<string>High</string>
 				<key>IndexFilename</key>
 				<string>index.html</string>
+				<key>MetaTags</key>
+				<array>
+					<dict>
+						<key>Content</key>
+						<string>weekly</string>
+						<key>Name</key>
+						<string>CHANGEFREQ</string>
+					</dict>
+				</array>
 				<key>OutputFormat</key>
 				<string>Default</string>
 				<key>OutputXMLDeclaration</key>

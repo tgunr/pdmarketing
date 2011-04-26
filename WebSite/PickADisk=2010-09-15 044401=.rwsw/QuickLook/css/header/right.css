@@ -1,0 +1,17 @@
+#pageHeader h1 {
+	position: absolute;
+	top: 60px;
+	right: 50px;
+}
+
+#pageHeader h2 {
+	position: absolute;
+	top: 95px;
+	right: 50px;
+}
+
+#pageHeader img {
+	position: absolute;
+	left: 40px;
+	top:  20px;
+}

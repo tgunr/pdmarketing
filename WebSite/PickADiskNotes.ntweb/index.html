@@ -1,0 +1,58 @@
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!-- Copyright (c) 2002-2007 AquaMinds Software Corporation. All rights reserved. -->
+<SCRIPT LANGUAGE="JavaScript" SRC="indexscript.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" SRC="notebook.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript">
+	var currentWidth = 0;
+	var lastDiff     = 0;
+		
+	if (isIPhone) {
+		document.write('<meta id="viewport" name="viewport" content = "initial-scale=1.0; maximum-scale=1.0; width=320; user-scalable=0;" >');
+
+		addEventListener("load", function()
+		{
+			setTimeout(updateLayout, 0);
+		}, false);
+
+		function reloadPageFrame() {
+		    var pageFrame = document.getElementById("pageFrame").contentDocument.getElementsByName("pageBodyFrame")[0];
+			// reload
+			pageFrame.location = pageFrame.location;
+		}
+		
+		function updateLayout()
+		{
+			if (window.innerWidth != currentWidth)
+			{
+				var diff = (window.innerWidth - currentWidth);
+				currentWidth = window.innerWidth;
+				if (diff != -lastDiff)
+				 	setTimeout(reloadPageFrame(), 10);
+				lastDiff = diff;
+				if (window.pageYOffset == 0) {
+					setTimeout(function()
+					{
+						window.scrollTo(0, 1);
+					}, 100);
+				}
+				
+			}
+		}
+
+		setInterval(updateLayout, 400);
+	}
+</SCRIPT>
+</HEAD>
+
+<SCRIPT LANGUAGE="JavaScript">
+	document.write('<FRAMESET COLS="' + (isIPhone ? 21 : 28) + ', *, ' + (isIPhone ? 26 : 36) + '" BORDER="0" FRAMEBORDER="NO">');
+</SCRIPT>
+<FRAME NAME="vringFrame" ID="vringFrame" SRC="vrings.html" MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO noresize=noresize>
+<FRAME NAME="pageFrame"  ID="pageFrame"  SRC="page.html"   MARGINWIDTH=0 MARGINHEIGHT=0 noresize=noresize>
+<FRAME NAME="tabFrame"   ID="tabFrame"   SRC="tabs.html"   MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=AUTO noresize=noresize onload="updateTabs();">
+</FRAMESET>
+
+</HTML>
+

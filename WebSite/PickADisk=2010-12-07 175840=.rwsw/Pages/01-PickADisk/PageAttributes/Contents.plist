@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>Changed</key>
+				<true/>
+				<key>ColourStyles</key>
+				<dict>
+					<key>Alpha</key>
+					<dict>
+						<key>%colour_links%</key>
+						<string>#FFFFFF</string>
+						<key>%colour_menu_text%</key>
+						<string>#FFFFFF</string>
+					</dict>
+					<key>Bravo</key>
+					<dict/>
+					<key>CA Camilo</key>
+					<dict/>
+					<key>CA Corners</key>
+					<dict/>
+					<key>CA OHM</key>
+					<dict/>
+					<key>CA Usine</key>
+					<dict/>
+					<key>Delta</key>
+					<dict/>
+					<key>Manitoba</key>
+					<dict/>
+					<key>Multi No Theme</key>
+					<dict/>
+					<key>Multi White Shadow</key>
+					<dict/>
+					<key>polyMicro Systems</key>
+					<dict/>
+				</dict>
+				<key>CreditRapidWeaver</key>
+				<true/>
+				<key>CustomCopyrightUsed</key>
+				<false/>
+				<key>CustomSiteTitleUsed</key>
+				<false/>
+				<key>CustomSloganUsed</key>
+				<false/>
+				<key>DefaultLinkTarget</key>
+				<string>self</string>
+				<key>ExternalAssets</key>
+				<array>
+					<dict>
+						<key>FileReference</key>
+						<dict>
+							<key>Alias</key>
+							<data>
+							AAAAAAG4AAIAAAdsZW9w
+							YXJkAAAAAAAAAAAAAAAA
+							AAAAAAAAAADD/CSTSCsA
+							AAAroD4NY2xlYW4uY29t
+							bWFuZAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAGn1bcgf
+							AjgAAAAAAAAAAAABAAMA
+							AAkAAAAAAAAAAAAAAAAA
+							AAAAB3NjcmlwdHMAABAA
+							CAAAw/yHAwAAABEACAAA
+							yB9kqAAAAAEAGAAroD4A
+							K5/pACuZcQArjQMASD01
+							ACqm2gACAEpsZW9wYXJk
+							OlByb2plY3RzOlBpY2tB
+							RGlzazpNYXJrZXRpbmc6
+							V2ViU2l0ZTpzdXBwb3J0
+							OnNjcmlwdHM6Y2xlYW4u
+							Y29tbWFuZAAOABwADQBj
+							AGwAZQBhAG4ALgBjAG8A
+							bQBtAGEAbgBkAA8AEAAH
+							AGwAZQBvAHAAYQByAGQA
+							EgBDL1Byb2plY3RzL1Bp
+							Y2tBRGlzay9NYXJrZXRp
+							bmcvV2ViU2l0ZS9zdXBw
+							b3J0L3NjcmlwdHMvY2xl
+							YW4uY29tbWFuZAAAEwAQ
+							L1ZvbHVtZXMvbGVvcGFy
+							ZP//AAA=
+							</data>
+							<key>Path</key>
+							<string>/Users/davec/Projects/PickADisk/Marketing/WebSite/support/scripts/clean.command</string>
+						</dict>
+						<key>Name</key>
+						<string>clean.command</string>
+					</dict>
+					<dict>
+						<key>FileReference</key>
+						<dict>
+							<key>Alias</key>
+							<data>
+							AAAAAAGEAAIAAQdsZW9w
+							YXJkAAAAAAAAAAAAAAAA
+							AAAAAAAAAADD/CSTSCsA
+							AAArmXEKT3BlbkJhbm5l
+							cgAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAACubusbx
+							JO4AAAAAAAAAAAABAAEA
+							AAkAAAAAAAAAAAAAAAAA
+							AAAAB1dlYlNpdGUAABAA
+							CAAAw/yHAwAAABEACAAA
+							xvGHXgAAAAEAEAArmXEA
+							K40DAEg9NQAqptoAAgA3
+							bGVvcGFyZDpQcm9qZWN0
+							czpQaWNrQURpc2s6TWFy
+							a2V0aW5nOldlYlNpdGU6
+							T3BlbkJhbm5lcgAADgAW
+							AAoATwBwAGUAbgBCAGEA
+							bgBuAGUAcgAPABAABwBs
+							AGUAbwBwAGEAcgBkABIA
+							MC9Qcm9qZWN0cy9QaWNr
+							QURpc2svTWFya2V0aW5n
+							L1dlYlNpdGUvT3BlbkJh
+							bm5lcgATABAvVm9sdW1l
+							cy9sZW9wYXJk//8AAA==
+							</data>
+							<key>Path</key>
+							<string>/Users/davec/Projects/PickADisk/Marketing/WebSite/OpenBanner</string>
+						</dict>
+						<key>Name</key>
+						<string>OpenBanner</string>
+					</dict>
+					<dict>
+						<key>FileReference</key>
+						<dict>
+							<key>Alias</key>
+							<data>
+							AAAAAAGWAAIAAAdsZW9w
+							YXJkAAAAAAAAAAAAAAAA
+							AAAAAAAAAADD/CSTSCsA
+							AAArpu0JLmh0YWNjZXNz
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAGnyAcgf
+							AjcAAAAAAAAAAAABAAIA
+							AAkAAAAAAAAAAAAAAAAA
+							AAAACGh0YWNjZXNzABAA
+							CAAAw/yHAwAAABEACAAA
+							yB9kpwAAAAEAFAArpu0A
+							K5lxACuNAwBIPTUAKqba
+							AAIAP2xlb3BhcmQ6UHJv
+							amVjdHM6UGlja0FEaXNr
+							Ok1hcmtldGluZzpXZWJT
+							aXRlOmh0YWNjZXNzOi5o
+							dGFjY2VzcwAADgAUAAkA
+							LgBoAHQAYQBjAGMAZQBz
+							AHMADwAQAAcAbABlAG8A
+							cABhAHIAZAASADgvUHJv
+							amVjdHMvUGlja0FEaXNr
+							L01hcmtldGluZy9XZWJT
+							aXRlL2h0YWNjZXNzLy5o
+							dGFjY2VzcwATABAvVm9s
+							dW1lcy9sZW9wYXJk//8A
+							AA==
+							</data>
+							<key>Path</key>
+							<string>/Users/davec/Projects/PickADisk/Marketing/WebSite/htaccess/.htaccess</string>
+						</dict>
+						<key>Name</key>
+						<string>.htaccess</string>
+					</dict>
+				</array>
+				<key>FilenameExtension</key>
+				<string>html</string>
+				<key>FolderName</key>
+				<string>rw</string>
+				<key>HasCustomThemeStyle</key>
+				<false/>
+				<key>Hidden</key>
+				<false/>
+				<key>ImageFormat</key>
+				<string>Original</string>
+				<key>ImageQuality</key>
+				<string>Original</string>
+				<key>IndexFilename</key>
+				<string>index.html</string>
+				<key>MetaTags</key>
+				<array>
+					<dict>
+						<key>Content</key>
+						<string>monthly</string>
+						<key>Name</key>
+						<string>CHANGEFREQ</string>
+					</dict>
+				</array>
+				<key>OutputFormat</key>
+				<string>Default</string>
+				<key>OutputXMLDeclaration</key>
+				<false/>
+				<key>SidebarEnabled</key>
+				<integer>1</integer>
+				<key>TextEncoding</key>
+				<string>utf-8</string>
+				<key>ThemeStyles</key>
+				<dict>
+					<key>Alpha</key>
+					<array>
+						<string>Colours.Body Background</string>
+						<string>Sidebar.Hide</string>
+						<string>Width.800px</string>
+					</array>
+					<key>Delta</key>
+					<array>
+						<string>Colours.Body Background</string>
+						<string>Icons.Blue</string>
+						<string>Sidebar.Right</string>
+						<string>Width.800px</string>
+					</array>
+					<key>Manitoba</key>
+					<array>
+						<string>General Colours.Body Text</string>
+						<string>Header Alignment.Inline</string>
+						<string>Header Colours.Background</string>
+						<string>Icon Colour.Green</string>
+						<string>Navigation Colours.Menu Items</string>
+						<string>Sidebar.Right</string>
+						<string>Width.800px</string>
+					</array>
+					<key>Multi White Shadow</key>
+					<array>
+						<string>Font Style.helvetica</string>
+						<string>Sidebar.Right</string>
+						<string>Skin Side.Grey Light</string>
+						<string>Skin.• Green</string>
+						<string>Text COLOURS.Title and slogan</string>
+						<string>Title.Default</string>
+						<string>Width. 900 Pixel</string>
+					</array>
+					<key>polyMicro Systems</key>
+					<array>
+						<string>Background gradient.Off</string>
+						<string>Colors (layout).Background</string>
+						<string>Colors (side nav).Link background</string>
+						<string>Colors (text).Body text</string>
+						<string>Colors (top nav).Tab text</string>
+						<string>Font family.Helvetica (default)</string>
+						<string>Font size.Medium (default)</string>
+						<string>Header skin.Page shadow</string>
+						<string>Header.Custom Header 1 (default)</string>
+						<string>Logo.Logo in the header</string>
+						<string>Sidebar Position.Hide</string>
+						<string>Title position.Left</string>
+						<string>Width.900px</string>
+					</array>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page Attributes</string>
+</dict>
+</plist>
