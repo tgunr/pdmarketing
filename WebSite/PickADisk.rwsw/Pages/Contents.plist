@@ -24,16 +24,12 @@
 				<string>08-QuickStart</string>
 				<string>09-About</string>
 				<string>10-Updates</string>
-				<string>11-Contact</string>
-				<string>12-Lost-License</string>
-				<string>13-Known-Issues</string>
-				<string>14-Blog</string>
-				<string>15-Forum</string>
-				<string>16-SiteMap</string>
-				<string>17-FAQ</string>
-				<string>18-PlusKit</string>
-				<string>19-Success</string>
-				<string>20-Test</string>
+				<string>11-Send-Email</string>
+				<string>12-Known-Issues</string>
+				<string>13-Blog</string>
+				<string>14-SiteMap</string>
+				<string>15-FAQ</string>
+				<string>16-PlusKit</string>
 			</array>
 		</dict>
 	</array>

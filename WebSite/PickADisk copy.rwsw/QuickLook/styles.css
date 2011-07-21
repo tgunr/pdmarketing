@@ -1,0 +1,841 @@
+/* @override http://polymicrosystems.com/rw/rw_common/themes/badnas/styles.css */
+
+/* seyDoggy badNas */
+
+/* @group General Styles */
+
+body {
+	font: 90%/1.5em "Lucida Grande","Lucida Sans Unicode", helvetica, verdana, arial, sans-serif;
+	margin: 0;
+	padding: 0 40px 30px;
+}
+
+p {
+	margin: 0 0 1.0em;
+	padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0 0 0.5em;
+	padding: 0;
+	line-height: 1.2em;
+}
+
+b, strong {
+	font-weight: bold;
+}
+
+a:link, a:visited {
+	text-decoration: none;
+}
+
+a:hover, a:active {
+	text-decoration: underline;
+}
+
+img {
+	
+}
+
+a img, .imageStyle {
+	border-style: none;
+}
+
+.image-left {
+	float: left;
+	margin: 5px 5px 5px 0;
+}
+
+.image-right {
+	float: right;
+	margin: 5px 0 5px 5px;
+}
+
+blockquote, .standout {
+	font-style: italic;
+}
+
+/* @end */
+
+/* @group Layout */
+
+#container {
+	border: 1px solid;
+	border-top: none;
+	position: relative;
+	top: 0;
+	margin: 0 auto;
+	padding: 0;
+}
+
+.clearer {
+	clear: both;
+}
+
+#pageHeader {
+	position: relative;
+	top: 0;
+	left: 0;
+	height: 175px;
+	width: 100%;
+	background: #ffffff;/* this is for backup */
+	margin: 0;
+	padding: 0;
+	clear: both;
+}
+
+#pageHeader #skin {
+	height: 175px;
+	background: url(images/skin1.png) ;
+}
+
+#title img {
+	position: relative;
+	top: 40px;
+	right: 40px;
+	float: right;
+}
+
+#title {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 142px;
+	min-height: 142px;
+	max-height: 142px;
+	width: 100%;
+	z-index: 1;
+}
+
+#site_title {
+	padding: 55px 0 0 5%;
+	margin: 0 0 10px;
+	text-align: left;
+}
+
+#site_title, .photo-title {
+	font-size: 2.5em;
+}
+
+#site_slogan {
+	padding: 0 0 0 5%;
+	margin: 0;
+	text-align: left;
+}
+
+#site_slogan, .photo-caption {
+	font-size: 1.3em;
+}
+
+#contentContainer {
+
+}
+
+#content {
+	margin: 0 0 0 187px;
+	padding: 20px 20px 2px;
+}
+
+#sidebarContainer {
+	float: left;
+	width: 187px;
+	font-size: 0.75em;
+}
+
+#sidebarContainer #sidebar {
+	margin: 0 10px 10px 10px;
+	padding: 0 0 10px 0;
+}
+
+#sidebarContainer .sideHeader {
+	margin: 0 0 10px;
+	text-align: left;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+#footer {
+	font-size: 0.70em;
+
+}
+
+#logo {
+	text-align: center;
+	margin: 0 auto 20px;
+}
+
+#sidebarContainer #logo img {
+
+}
+
+#footer p {
+	text-align: center;
+}
+
+#footer a:link, #footer a:visited {
+
+}
+
+#footer a:hover, #footer a:active {
+
+}
+
+/* @end */
+
+/* @group Bread-crumb */
+
+#breadcrumbcontainer {
+	border-top: 1px solid;
+	padding-top: 10px;
+	margin-top: 5px;
+	clear: both;
+	font-size: 0.7em;
+	text-align: center;
+}
+
+#breadcrumbcontainer ul {
+
+}
+
+#breadcrumbcontainer li {
+
+}
+
+#breadcrumbcontainer a {
+
+}
+
+#breadcrumbcontainer a:hover {
+
+}
+
+/* @end */
+
+/* @group Toolbar */
+
+/* @group horizontal */
+
+#toolbar_horizontal {
+	position: relative;
+	top: 142px;
+	height: 33px;
+	text-align: center;
+	font-size: 0.8em;
+}
+
+#toolbar_horizontal ul.navlist {
+	position: relative;
+	margin: 0;
+	padding: 0;
+}
+
+#toolbar_horizontal ul.navlist li {
+	position: relative;
+	left: 0;
+	float:left;
+	list-style:none;
+	padding:0;
+	margin:0 3px 0 0;
+	line-height: 33px;
+	width: 107px;
+	height: 33px;
+}
+
+#toolbar_horizontal ul.navlist li a {
+	display:block;
+	text-decoration:none;
+	margin: 0 auto;
+	text-align: center;
+	width: 107px;
+	height: 33px;
+}
+
+#toolbar_horizontal ul ul {
+	display: none;
+}
+
+/* @end */
+
+/* @group vertical */
+
+#toolbar_vertical {
+	position: relative;
+	top: 0;
+	margin-bottom: 20px;
+	border-top: 1px solid;
+	font-size: 0.9em;
+}
+
+#toolbar_vertical ul.navlist {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#toolbar_vertical ul.navlist li { /*hides the top level*/
+	position: relative;
+	display: inline;
+	height: 0;
+}
+
+#toolbar_vertical ul.navlist li a { /*hides the top level*/
+	display: none;
+}
+
+#toolbar_vertical ul.navlist ul.navlist li a {
+	display: block;
+	padding-left: 10px;
+	height: 30px;
+	line-height: 30px;
+	border-bottom: 1px solid;
+}
+
+#toolbar_vertical li.current a:link {
+	background: #cccccc;
+	color: #000000;
+}
+
+#toolbar_vertical li.current a:hover {
+	background: #000000;
+	color: #ffffff;
+}
+
+#toolbar_vertical li.currentAncestor a:link {
+	color: #000000;
+}
+
+#toolbar_vertical li.currentAncestor a:hover {
+	background: #000000;
+	color: #ffffff;
+}
+
+#toolbar_vertical li.normal a:link {
+	background: transparent;
+	color: #000000;
+}
+
+#toolbar_vertical li.normal a:hover {
+	background: #000000;
+	color: #ffffff;
+}
+
+#toolbar_vertical ul.navlist ul.navlist ul.navlist li a {
+	padding-left: 30px;
+}
+
+#toolbar_vertical ul.navlist ul.navlist ul.navlist ul.navlist li a {
+	padding-left: 50px;
+}
+
+#toolbar_vertical ul.navlist ul.navlist ul.navlist ul.navlist ul.navlist li a {
+	padding-left: 70px;
+}
+
+#toolbar_vertical ul.navlist ul.navlist ul.navlist ul.navlist ul.navlist ul.navlist li a {
+	padding-left: 90px;
+}
+
+/* @end */
+
+/* @end */
+
+/* @group Blog */
+
+/* @group Tag Cloud */
+
+ul.blog-tag-cloud {
+	text-align: justify;
+	margin:  10px 0;
+	padding: 10px 0;
+}
+
+ul.blog-tag-cloud li {
+	display: inline;
+	padding-right: 5px;
+	margin: 0;
+}
+
+.blog-tag-size-1 {	
+	font-size: 0.8em;
+}
+
+.blog-tag-size-2 {	
+	font-size: 0.85em;
+}
+
+.blog-tag-size-3 {	
+	font-size: 0.9em;
+}
+
+.blog-tag-size-4 {	
+	font-size: 0.95em;
+}
+
+.blog-tag-size-5 {	
+	font-size: 1em;
+}
+
+.blog-tag-size-6 {	
+	font-size: 1.05em;
+}
+
+.blog-tag-size-7 {	
+	font-size: 1.1em;
+}
+
+.blog-tag-size-8 {	
+	font-size: 1.15em;
+}
+
+.blog-tag-size-9 {	
+	font-size: 1.2em;
+}
+
+.blog-tag-size-10 {	
+	font-size: 1.25em;
+}
+
+.blog-tag-size-11 {	
+	font-size: 1.3em;
+}
+
+.blog-tag-size-12 {	
+	font-size: 1.35em;
+}
+
+.blog-tag-size-13 {
+	font-size: 1.4em;
+}
+
+.blog-tag-size-14 {	
+	font-size: 1.45em;
+}
+
+.blog-tag-size-15 {
+	font-size: 1.5em;
+}
+
+.blog-tag-size-16 {	
+	font-size: 1.55em;
+}
+
+.blog-tag-size-17 {	
+	font-size: 1.6em;
+}
+
+.blog-tag-size-18 {	
+	font-size: 1.65em;
+}
+
+.blog-tag-size-19 {
+	font-size: 1.7em;
+}
+
+.blog-tag-size-20 {	
+	font-size: 1.75em;
+}
+
+/* @end */
+
+/* Styles the blog categories in the blog sidebar */
+
+#blog-categories {
+	text-align: left;
+	margin: 10px 0;
+	padding: 10px 0;
+}
+
+.blog-category-link-enabled {
+	background: url(images/cat.png) no-repeat;
+	padding: 0 0 0 17px;
+}
+
+.blog-category-link-disabled {
+	background: url(images/cat.png) no-repeat 0 center;
+	padding: 0 0 0 17px;
+}
+
+/* styles the archives in the blog sidebar */
+
+#blog-archives {
+	text-align: left;
+	margin: 10px 0;
+	padding: 10px 0;
+}
+
+.blog-archive-link-enabled {
+	background: url(images/date.png) no-repeat;
+	padding: 0 0 0 17px;
+	margin: 0 10px 0 0;
+}
+
+#blog-archives br {
+	display: none;
+}
+
+.blog-archive-link-enabled:link, .blog-archive-link-enabled:visited {
+	background-repeat: no-repeat;
+}
+
+.blog-archive-link-enabled:hover {
+	background-repeat: no-repeat;
+}
+
+.blog-archive-link-disabled {
+	background: url(images/date.png) no-repeat;
+	padding: 0 0 0 17px;
+	margin: 0 10px 0 0;
+	display: inline;
+}
+
+/* Styles the blog RSS feeds in the blog sidebar */
+
+#blog-rss-feeds {
+	text-align: left;
+	margin: 10px 0 0;
+	padding: 10px 0;
+}
+
+.blog-rss-link {
+	background: url(images/rss.png) no-repeat;
+	padding: 0 0 0 17px;
+}
+
+.blog-comments-rss-link {
+	background: url(images/rss.png) no-repeat;
+	padding: 0 0 0 17px;
+}
+
+.blog-comments-rss-link:hover {
+	float: left;
+}
+
+/* @end */
+
+/* @group entry */
+
+.blog-entry-tags {
+	font-size: 0.8em;
+}
+
+.blog-entry {
+	margin: 0 0 20px;
+}
+
+.blog-entry-title {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	font-size: 1.8em;
+	line-height: 1.5em;
+}
+
+.blog-entry-title a {
+	text-decoration: none;
+}
+
+.blog-entry-title a:hover, .blog-entry-title a:active {
+	text-decoration: none;
+}
+
+.blog-entry-date {
+	background: url(images/date.png) no-repeat;
+	line-height: 15px;
+	margin: 0 0 10px;
+	text-indent: 17px;
+	font-size: 0.8em;
+}
+
+.blog-entry-summary {
+	margin: 10px;
+}
+
+.blog-entry-comments {
+	margin: 15px 0 5px;
+	z-index: 2;
+	font-size: 0.8em;
+}
+
+.blog-entry-category {
+	line-height: 15px;
+	background: url(images/cat.png) no-repeat;
+	padding-left: 17px;
+	margin: 0 4px 0 10px;
+}
+
+.blog-entry-permalink {
+	background: url(images/permalink.png) no-repeat;
+	padding: 0 0 0 20px;
+	margin: 0 0 0 15px;
+}
+
+.blog-read-more {
+	background: url(images/readmore.png) no-repeat;
+	padding: 0 0 0 20px;
+	margin: 0 0 0 15px;
+}
+
+.blog-entry-comments-inline {
+	border: solid 1px;
+}
+
+/* @end */
+
+/* @end */
+
+/* @group File Sharing */
+
+.filesharing-description {
+	text-align: left;
+	font-size: 1.2em;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+.filesharing-item {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 5px;
+	border: solid 1px;
+}
+
+.filesharing-item-title a:link {
+
+}
+
+.filesharing-item-title a:hover {
+
+}
+
+.filesharing-item-title a:visited {
+
+}
+
+.filesharing-item-description {
+	font-size: 0.7em;
+}
+
+/* @end */
+
+/* @group Photo Album */
+
+/* @group Index Page (Thumbnail view) */
+
+.album-title {
+	text-align: left;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+.album-description {
+	font-size: 0.8em;
+	margin-bottom: 60px;
+}
+
+.album-wrapper {
+	display: block;
+	width: 99%;
+	position: relative;
+}
+
+.thumbnail-wrap {
+	text-align: center;
+	position: relative;
+	float: left;
+	margin-bottom: 60px;
+	margin-right: 15px;
+}
+
+.thumbnail-frame {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	padding: 3px;
+	border: solid 1px;
+}
+
+.thumbnail-frame:hover {
+	border: solid 1px;	
+}
+
+.thumbnail-frame a {
+
+}
+
+.thumbnail-frame a:hover {
+
+}
+
+.thumbnail-frame a:hover img {
+	margin: auto;
+	border: solid 1px;
+}
+
+.thumbnail-frame img {
+	margin: auto;
+	border: solid 1px;
+}
+
+.thumbnail-caption {
+	margin: 0;
+	padding: 0;
+	height: 35px;
+	display: block;
+	font-size: 0.8em;
+}
+
+/* @end */
+
+/* @group Single Page (Photo view) */
+
+/*
+<body class="photo-background">
+	<div class="photo-navigation">
+		<p class="photo-title">Photo Album.</p>
+		<p class="photo-caption">First day of school</p>
+		<p class="photo-links"><a href="../index.html">Photo Album</a> | <a href="page8-1001-full.html">Next</a></p>
+	</div>
+	<img class="photo-frame" src="page8-1000-full.jpg" alt="Loading Image" width="238" height="360"/>
+</body>
+*/
+
+.photo-background {
+	text-align: center;
+	margin: 0 auto;
+
+}
+
+.photo-navigation {
+	text-align: center;
+	margin: 0 auto 30px;
+	height: 175px;
+}
+
+p.photo-title {
+	padding: 50px 0 0;
+	margin: 0 0 10px;
+}
+
+p.photo-caption {
+	padding: 0;
+	margin: 0;
+}
+
+p.photo-links {
+	padding: 0;
+	margin: 20px 0 0;
+}
+
+.photo-frame {
+	text-align: center;
+	margin: 0 auto;
+	padding: 10px;
+	border: solid 1px;
+}
+
+#flashcontent {
+	text-align: center;
+}
+
+/* @end */
+
+/* @end */
+
+/* @group Quicktime Page */
+
+.movie-frame {
+	text-align: center;
+}
+
+.movie-description {
+	text-align: center;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+/* @end */
+
+/* @group Quicktime Album */
+
+/* @group Index Page (Movie Thumbnail view) */
+
+.movie-page-title {
+	text-align: center;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+.movie-page-description {
+	text-align: center;
+	font-size: 0.9em;
+	margin-bottom: 20px;
+}
+
+.movie-thumbnail-frame {
+	float: left;
+	display: inline;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	text-align: center;
+	width: 131px;
+	padding: 3px;
+	border: solid 1px;
+}
+
+.movie-thumbnail-frame:hover {
+	border: solid 1px;
+}
+
+.movie-thumbnail-caption {
+	font-size: 0.8em;
+	margin-top: 2px;
+	text-align: center;
+	width: 131px;
+}
+
+/* @end */
+
+/* @group Single Page (Movie View) */
+
+.movie-background {
+	background: #f1f1f1;
+}
+
+.movie-title {
+	text-align: center;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+.movie-frame {
+
+}
+
+/* @end */
+
+/* @end */
+
+/* @group Contact Form */
+
+.message-text {
+	text-align: left;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+form {
+	text-align: left;
+	font-size: 0.9em;
+}
+
+.required-text {
+}
+
+.form-input-field {
+	width: 98%;
+}
+
+.form-input-button {
+}
+
+/* @end */

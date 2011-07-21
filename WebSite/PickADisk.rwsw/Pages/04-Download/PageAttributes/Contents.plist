@@ -43,13 +43,13 @@
 							aXgucG5nAAAAAAAAAAAA
 							AAAAAAAAAAAAAAAAAAAA
 							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAGn2A8gf
-							AjYAAAAAAAAAAAACAAIA
+							AAAAAAAAAAAAACuOn8bu
+							VecAAAAAUFhNVAACAAIA
 							AAkAAAAAAAAAAAAAAAAA
 							AAAABkltYWdlcwAQAAgA
-							AMP8hwMAAAARAAgAAMgf
-							ZKYAAAABABAAK41/ACuN
-							AwBIPTUAKqbaAAIAO2xl
+							AMP8hwMAAAARAAgAAMbu
+							uFcAAAABABAAK41/ACuN
+							AwAs93oAKqbaAAIAO2xl
 							b3BhcmQ6UHJvamVjdHM6
 							UGlja0FEaXNrOk1hcmtl
 							dGluZzpJbWFnZXM6RG93
@@ -85,15 +85,6 @@
 				<string>High</string>
 				<key>IndexFilename</key>
 				<string>download.html</string>
-				<key>MetaTags</key>
-				<array>
-					<dict>
-						<key>Content</key>
-						<string>daily</string>
-						<key>Name</key>
-						<string>CHANGEFREQ</string>
-					</dict>
-				</array>
 				<key>OutputFormat</key>
 				<string>Default</string>
 				<key>OutputXMLDeclaration</key>

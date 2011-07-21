@@ -27,7 +27,7 @@
 				<key>PublishingManifest</key>
 				<dict>
 					<key>CreationDate</key>
-					<date>2010-09-12T20:18:26Z</date>
+					<date>2010-04-26T21:24:20Z</date>
 					<key>DigestAlgorithm</key>
 					<string>MD5</string>
 					<key>DocumentGUID</key>
@@ -43,16 +43,6 @@
 							</data>
 							<key>Size</key>
 							<integer>6433</integer>
-						</dict>
-						<key>assets/clean.command</key>
-						<dict>
-							<key>Digest</key>
-							<data>
-							hiifo/oAcm1e7PWbpFTQ
-							8g==
-							</data>
-							<key>Size</key>
-							<integer>116</integer>
 						</dict>
 						<key>favicon.ico</key>
 						<dict>
@@ -138,11 +128,11 @@
 						<dict>
 							<key>Digest</key>
 							<data>
-							HSgNKkuztxCnlWw9kog2
-							ig==
+							tBYpb+MT+Ar2WkPVRrVp
+							Hw==
 							</data>
 							<key>Size</key>
-							<integer>14174</integer>
+							<integer>16611</integer>
 						</dict>
 						<key>rw_common/images/PAD4x64.png</key>
 						<dict>

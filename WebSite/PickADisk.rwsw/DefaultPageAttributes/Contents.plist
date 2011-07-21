@@ -62,13 +62,6 @@
 						<string>Sidebar.Hide</string>
 						<string>Width.800px</string>
 					</array>
-					<key>Modern Grunge</key>
-					<array>
-						<string>Font Family.Sans Serif</string>
-						<string>Header Alignment.Left</string>
-						<string>Sidebar.Hide</string>
-						<string>Styles.Blue</string>
-					</array>
 					<key>polyMicro Systems</key>
 					<array>
 						<string>Background gradient.Dark</string>

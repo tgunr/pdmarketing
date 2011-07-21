@@ -1,0 +1,149 @@
+body, #grad, .photo-background  {
+	background-color: #FFFFFF;
+	color: #333333;
+}
+
+#contentContainer {
+	background-color: #EDEDED;
+}
+
+#content {
+	background-color: #FFFFFF;
+}
+
+#site_title, .photo-title {
+	color: #F1F1F1;
+}
+
+#site_slogan, .photo-caption, .photo-links, .photo-links a:link {
+	color: #F1F1F1;
+}
+
+#container {
+	border-color: #DEDEDE;
+}
+
+#content, #breadcrumbcontainer, #sidebarContainer #logo, #toolbar_vertical, #toolbar_vertical ul.navlist ul.navlist li a, .blog-entry-body, #blog-categories, #blog-rss-feeds, .filesharing-item, .thumbnail-frame, .thumbnail-frame:hover, .thumbnail-frame a:hover img, .thumbnail-frame img, .photo-frame, .movie-thumbnail-frame, .movie-thumbnail-frame:hover {
+	border-color: #DEDEDE;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #666666;
+}
+
+a:link, a:visited, #breadcrumbcontainer, #toolbar_horizontal ul li a:hover, .blog-entry-title, .filesharing-description, .album-title, .thumbnail-caption, .movie-description, .movie-page-title, .movie-thumbnail-caption, .movie-title, .message-text, form {
+	color: #1F97D5;
+}
+
+a:hover, a:active {
+	color: #14658F;
+}
+
+/* TAB COLORS AND BACKGROUNDS */
+#toolbar_horizontal ul.navlist li.current a:link, #toolbar_horizontal ul.navlist li.current a:visited {
+	color: #1F97D5;
+}
+
+#toolbar_horizontal ul.navlist li.currentAncestor a:link, #toolbar_horizontal ul.navlist li.currentAncestor a:visited {
+	color: #DEDEDE;
+}
+
+#toolbar_horizontal ul.navlist li.currentAncestor a:hover, #toolbar_horizontal ul.navlist li.currentAncestor a:active {
+	color: #14658F;
+}
+
+#toolbar_horizontal ul.navlist li.current, #toolbar_horizontal ul.navlist li.current .sb-inner {
+	color: #1F97D5;
+}
+
+#toolbar_horizontal ul.navlist li.normal a:link, #toolbar_horizontal ul.navlist li.normal a:visited {
+	color: #FFFFFF;
+}
+
+#toolbar_horizontal ul.navlist li.normal a:hover, #toolbar_horizontal ul.navlist li.normal a:active {
+	color: #1F97D5;
+}
+
+#toolbar_horizontal ul.navlist li.normal, #toolbar_horizontal ul.navlist li.normal .sb-inner {
+	background: #006699;
+}
+
+#toolbar_horizontal ul.navlist li.current, #toolbar_horizontal ul.navlist li.current .sb-inner {
+	background: #FFFFFF;
+}
+
+#toolbar_horizontal ul.navlist li:hover, #toolbar_horizontal ul.navlist li:hover .sb-inner {
+	position: relative;
+	background:#FFFFFF;
+}
+
+* html #toolbar_horizontal ul.navlist li.hover, * html #toolbar_horizontal ul.navlist li.hover .sb-inner {
+	background:#FFFFFF;
+} /* for ie6 */
+
+#toolbar_horizontal ul.navlist li.currentAncestor, #toolbar_horizontal ul.navlist li.currentAncestor .sb-inner {
+	background:#3F3F3F;
+}
+
+#toolbar_horizontal ul.navlist li.currentAncestor:hover, #toolbar_horizontal ul.navlist li.currentAncestor:hover .sb-inner {
+	position: relative;
+	background:#FFFFFF;
+}
+
+* html #toolbar_horizontal ul.navlist li.currentAncestor.hover, * html #toolbar_horizontal ul.navlist li.currentAncestor.hover .sb-inner {
+	background:#FFFFFF;
+} /* for ie6 */
+
+/* END TAB COLORS AND BACKGROUNDS */
+
+/* #toolbar_vertical colors */
+#toolbar_vertical li.currentAncestor a:link, #toolbar_vertical li.currentAncestor a {
+	background: #EDEDED;
+	color: #14658F;
+}
+
+#toolbar_vertical li.currentAncestor a:hover {
+	background: #FFFFFF;
+	color: #1F97D5;
+}
+
+#toolbar_vertical li.current a:link, #toolbar_vertical li.current a {
+	background: #FFFFFF;
+	color: #1F97D5;
+}
+
+#toolbar_vertical li.current a:hover {
+	background: #FFFFFF;
+	color: #14658F;
+}
+
+#toolbar_vertical li.normal a:link, #toolbar_vertical li.normal a {
+	background: #EDEDED;
+	color: #1F97D5;
+}
+
+#toolbar_vertical li.normal a:hover {
+	background: #FFFFFF;
+	color: #14658F;
+}
+
+/* end #toolbar_vertical colors */
+
+.movie-thumbnail-frame:hover {
+	border-color: #1F97D5;
+}
+
+#sidebarContainer {
+	color: #666666;
+}
+
+#sidebarContainer .sideHeader {
+	color: #333333;
+}
+
+#footer {
+	color: #666666;
+
+}
+
+

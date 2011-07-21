@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteRule ^index.htm$ index.html
+RewriteRule ^feedback/$ rw/contact.html
+RewriteRule ^feedback$ rw/contact.html
+

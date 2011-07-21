@@ -1,0 +1,17 @@
+#content {
+	margin: 0;
+	padding: 20px 20px 2px;
+}
+
+#sidebarContainer {
+	display: none;
+}
+
+#toolbar_horizontal ul.navlist {
+	margin: 0 20px;
+	text-align: center;
+}
+
+#toolbar_horizontal ul.navlist li {
+	margin:0 3px 0 0;
+}

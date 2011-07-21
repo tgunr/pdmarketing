@@ -8,7 +8,7 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>Changed</key>
-				<true/>
+				<false/>
 				<key>ColourStyles</key>
 				<dict>
 					<key>Alpha</key>
@@ -53,7 +53,7 @@ td#note {
 				<key>DefaultLinkTarget</key>
 				<string>self</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>FilenameExtension</key>
 				<string>html</string>
 				<key>FolderName</key>
@@ -61,22 +61,13 @@ td#note {
 				<key>HasCustomThemeStyle</key>
 				<true/>
 				<key>Hidden</key>
-				<true/>
+				<false/>
 				<key>ImageFormat</key>
 				<string>Original</string>
 				<key>ImageQuality</key>
 				<string>High</string>
 				<key>IndexFilename</key>
 				<string>purchase.html</string>
-				<key>MetaTags</key>
-				<array>
-					<dict>
-						<key>Content</key>
-						<string>weekly</string>
-						<key>Name</key>
-						<string>CHANGEFREQ</string>
-					</dict>
-				</array>
 				<key>OutputFormat</key>
 				<string>Default</string>
 				<key>OutputXMLDeclaration</key>

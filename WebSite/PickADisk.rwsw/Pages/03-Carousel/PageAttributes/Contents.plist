@@ -43,15 +43,6 @@
 				<string>Original</string>
 				<key>IndexFilename</key>
 				<string>carousel.html</string>
-				<key>MetaTags</key>
-				<array>
-					<dict>
-						<key>Content</key>
-						<string>monthly</string>
-						<key>Name</key>
-						<string>CHANGEFREQ</string>
-					</dict>
-				</array>
 				<key>OutputFormat</key>
 				<string>Default</string>
 				<key>OutputXMLDeclaration</key>

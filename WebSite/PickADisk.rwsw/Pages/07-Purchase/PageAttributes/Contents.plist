@@ -8,7 +8,7 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>Changed</key>
-				<false/>
+				<true/>
 				<key>ColourStyles</key>
 				<dict>
 					<key>Alpha</key>
@@ -53,7 +53,7 @@ td#note {
 				<key>DefaultLinkTarget</key>
 				<string>self</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Expires</key>
 				<true/>
 				<key>ExpiryQuantity</key>
@@ -67,75 +67,36 @@ td#note {
 						<dict>
 							<key>Alias</key>
 							<data>
-							AAAAAAF4AAIAAAdsZW9w
+							AAAAAAGUAAIAAAdsZW9w
 							YXJkAAAAAAAAAAAAAAAA
 							AAAAAAAAAADD/CSTSCsA
-							AAArjX8IUEFENC5wbmcA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAGn2EMgf
-							AjYAAAAAAAAAAAACAAIA
-							AAkAAAAAAAAAAAAAAAAA
-							AAAABkltYWdlcwAQAAgA
-							AMP8hwMAAAARAAgAAMgf
-							ZKYAAAABABAAK41/ACuN
-							AwBIPTUAKqbaAAIANGxl
-							b3BhcmQ6UHJvamVjdHM6
-							UGlja0FEaXNrOk1hcmtl
-							dGluZzpJbWFnZXM6UEFE
-							NC5wbmcADgASAAgAUABB
-							AEQANAAuAHAAbgBnAA8A
-							EAAHAGwAZQBvAHAAYQBy
-							AGQAEgAtL1Byb2plY3Rz
-							L1BpY2tBRGlzay9NYXJr
-							ZXRpbmcvSW1hZ2VzL1BB
-							RDQucG5nAAATABAvVm9s
-							dW1lcy9sZW9wYXJk//8A
-							AA==
-							</data>
-							<key>Path</key>
-							<string>/Volumes/leopard/Projects/PickADisk/Marketing/Images/PAD4.png</string>
-						</dict>
-						<key>Name</key>
-						<string>PAD4.png</string>
-					</dict>
-					<dict>
-						<key>FileReference</key>
-						<dict>
-							<key>Alias</key>
-							<data>
-							AAAAAAGkAAIAAAdsZW9w
-							YXJkAAAAAAAAAAAAAAAA
-							AAAAAAAAAADD/CSTSCsA
-							AAArm7oLYnpMb2FkZXIu
+							AAAR4JoLYnpMb2FkZXIu
 							anMAAAAAAAAAAAAAAAAA
 							AAAAAAAAAAAAAAAAAAAA
 							AAAAAAAAAAAAAAAAAAAA
-							AAAAAAAAAAAAAJozG8il
-							TFMAAAAAAAAAAAABAAIA
+							AAAAAAAAAAAAABHgqsbs
+							Yl4AAAAAAAAAAAAFAAYA
 							AAkAAAAAAAAAAAAAAAAA
-							AAAACk9wZW5CYW5uZXIA
-							EAAIAADD/IcDAAAAEQAI
-							AADIpa7DAAAAAQAUACub
-							ugArmXEAK40DAEg9NQAq
-							ptoAAgBDbGVvcGFyZDpQ
-							cm9qZWN0czpQaWNrQURp
-							c2s6TWFya2V0aW5nOldl
-							YlNpdGU6T3BlbkJhbm5l
-							cjpiekxvYWRlci5qcwAA
-							DgAYAAsAYgB6AEwAbwBh
-							AGQAZQByAC4AagBzAA8A
-							EAAHAGwAZQBvAHAAYQBy
-							AGQAEgA8L1Byb2plY3Rz
-							L1BpY2tBRGlzay9NYXJr
-							ZXRpbmcvV2ViU2l0ZS9P
-							cGVuQmFubmVyL2J6TG9h
-							ZGVyLmpzABMAEC9Wb2x1
-							bWVzL2xlb3BhcmT//wAA
+							AAAABmJhbm5lcgAQAAgA
+							AMP8hwMAAAARAAgAAMbs
+							xM4AAAABABQAEeCaABHb
+							NwARyjwADDX1AAusZQAC
+							ADpsZW9wYXJkOlVzZXJz
+							OmRhdmVjOlNpdGVzOnBp
+							Y2thZGlzay5jb206YmFu
+							bmVyOmJ6TG9hZGVyLmpz
+							AA4AGAALAGIAegBMAG8A
+							YQBkAGUAcgAuAGoAcwAP
+							ABAABwBsAGUAbwBwAGEA
+							cgBkABIAMy9Vc2Vycy9k
+							YXZlYy9TaXRlcy9waWNr
+							YWRpc2suY29tL2Jhbm5l
+							ci9iekxvYWRlci5qcwAA
+							EwAQL1ZvbHVtZXMvbGVv
+							cGFyZAAVAAIAHP//AAA=
 							</data>
 							<key>Path</key>
-							<string>/Volumes/leopard/Projects/PickADisk/Marketing/WebSite/OpenBanner/bzLoader.js</string>
+							<string>/Volumes/leopard/Users/davec/Sites/pickadisk.com/banner/bzLoader.js</string>
 						</dict>
 						<key>Name</key>
 						<string>bzLoader.js</string>
@@ -148,22 +109,13 @@ td#note {
 				<key>HasCustomThemeStyle</key>
 				<true/>
 				<key>Hidden</key>
-				<false/>
+				<true/>
 				<key>ImageFormat</key>
 				<string>Original</string>
 				<key>ImageQuality</key>
 				<string>Original</string>
 				<key>IndexFilename</key>
 				<string>bundle.html</string>
-				<key>MetaTags</key>
-				<array>
-					<dict>
-						<key>Content</key>
-						<string>weekly</string>
-						<key>Name</key>
-						<string>CHANGEFREQ</string>
-					</dict>
-				</array>
 				<key>OutputFormat</key>
 				<string>Default</string>
 				<key>OutputXMLDeclaration</key>

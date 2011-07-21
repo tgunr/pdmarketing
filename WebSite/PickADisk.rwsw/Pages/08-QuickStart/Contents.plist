@@ -25,7 +25,7 @@
 				<key>PublishingManifest</key>
 				<dict>
 					<key>CreationDate</key>
-					<date>2010-09-12T20:18:29Z</date>
+					<date>2009-10-07T18:49:44Z</date>
 					<key>DigestAlgorithm</key>
 					<string>MD5</string>
 					<key>DocumentGUID</key>
@@ -46,21 +46,11 @@
 						<dict>
 							<key>Digest</key>
 							<data>
-							ZyM35y3quqWW6oqkrFmR
-							mA==
+							LLjk0p3sMADKuJYHVL3v
+							6w==
 							</data>
 							<key>Size</key>
-							<integer>4979</integer>
-						</dict>
-						<key>quickstart_assets/PickADiskDoc.pdf</key>
-						<dict>
-							<key>Digest</key>
-							<data>
-							JD3rMH1g9ZqUz2jFihOv
-							OQ==
-							</data>
-							<key>Size</key>
-							<integer>3636276</integer>
+							<integer>7498</integer>
 						</dict>
 					</dict>
 					<key>PageID</key>
